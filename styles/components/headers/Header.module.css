@@ -1,0 +1,24 @@
+.header {
+  padding: 1rem;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 1rem;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+.innerContainer {
+  width: 80vw;
+}
+.navbar a {
+  margin-right: 1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.search {
+  display: block;
+  margin-top: 1rem;
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}

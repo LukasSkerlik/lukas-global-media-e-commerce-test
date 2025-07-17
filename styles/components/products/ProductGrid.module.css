@@ -1,0 +1,27 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, auto));
+  gap: 1rem;
+  padding: 1rem;
+  width: 100%;
+  height: fit-content;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  h3 {
+    padding-bottom: 1rem;
+  }
+  p {
+    padding-bottom: 0.5rem;
+  }
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
