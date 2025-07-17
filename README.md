@@ -25,7 +25,6 @@ Setup:
 1. Clone the repo:
 ```bash
 git clone https://github.com/LukasSkerlik/lukas-global-media-e-commerce-test.git
-cd nextjs-ecommerce
 ```
 2. Install Dependencies
 ```bash
